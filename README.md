@@ -54,7 +54,7 @@ Before you get started with this project, ensure you have the following prerequi
 
 Power BI offers a wide range of visualization options to help you represent your data effectively. In this section, we'll guide you through creating interactive dashboards, charts, and reports to visualize insurance-related data.
 
-!insurance_part2_data.pdf
+![Demo GIF](insurance_part2_data.pdf)
 
 ## Deployment
 
