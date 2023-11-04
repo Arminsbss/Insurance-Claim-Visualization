@@ -54,6 +54,8 @@ Before you get started with this project, ensure you have the following prerequi
 
 Power BI offers a wide range of visualization options to help you represent your data effectively. In this section, we'll guide you through creating interactive dashboards, charts, and reports to visualize insurance-related data.
 
+!insurance_part2_data.pdf
+
 ## Deployment
 
 Once you've created your Insurance Claim Prediction dashboard in Power BI, you may want to share it with others. The `deployment.md` file will guide you through the steps to deploy your dashboard for broader access.
